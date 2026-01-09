@@ -55,13 +55,21 @@ An additional experiment after observing lower performance in the 6-class settin
 
 facial-emotion-transfer-learning/
 │
+
 ├── docs/ # paper link + BibTeX
+
 ├── data/ # dataset instructions (no dataset included)
+
 ├── notebooks/ # 6-class + 3-class experiments
+
 ├── src/ # wrapper scripts (train/evaluate/config)
+
 ├── results/ # figures + metrics notes
+
 ├── models/ # weights notes
+
 ├── requirements.txt
+
 └── README.md
 
 
@@ -97,6 +105,7 @@ notebooks/fer_3class_merged_xception.ipynb
 📚 Citation
 
 If you use this repository, please cite the original paper:
+
 @INPROCEEDINGS{11073104,
   author={jallal, Malik and Wadee, Adnan and Samarah, Abdallah and Alrousan, Ammar and Alwedyan, Motasem and Obeidat, Rasha},
   booktitle={2025 16th International Conference on Information and Communication Systems (ICICS)}, 
