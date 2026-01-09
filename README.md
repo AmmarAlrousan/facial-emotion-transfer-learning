@@ -106,14 +106,24 @@ notebooks/fer_3class_merged_xception.ipynb
 
 If you use this repository, please cite the original paper:
 
+
 @INPROCEEDINGS{11073104,
+
   author={jallal, Malik and Wadee, Adnan and Samarah, Abdallah and Alrousan, Ammar and Alwedyan, Motasem and Obeidat, Rasha},
+  
   booktitle={2025 16th International Conference on Information and Communication Systems (ICICS)}, 
+  
+  
   title={Facial Emotion Recognition Using Transfer Learning with Xception Architecture}, 
+  
   year={2025},
+  
   pages={1-5},
+  
   doi={10.1109/ICICS65354.2025.11073104}
+  
 }
+
 
 📬 Contact
 
